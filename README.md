@@ -9,4 +9,5 @@ Analyze cricket match data, evaluating player performance to identify the top fi
 Conducted an analysis on the 2023 Domino's sales data, focusing on identifying key performance indicators.
 
 ***Data analysis:*** Leveraged MySQL to analyse key metrics to gain more insights of our data.
+
 ***Data Visulazation***: Engaged Power BI for effective visualization and dashboard creation.
